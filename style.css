@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+* {
+    box-sizing: border-box;
+    background-color: #99582a;
+    color: black;
+    scroll-behavior: smooth;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+/*----NAVBAR-----------------------------------------------------------------*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #432818;
+}
+li {
+    float: left;
+    width: 300px;
+    background-color: #432818;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #432818;
+    color: #ffe6a7;
+}
+a{
+    scroll-behavior: smooth;
+}
+li a:hover:not(.active) {
+    background-color: blue;
+}
+/*----HEADER-----------------------------------------------------------------*/
+.header{
+    padding-top: 50px;
+}
+.header div{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+}
+.header img{
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.header h1{
+    padding-left: 50px;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #ffe6a7;
+    text-shadow: 3px 3px 3px black;
+}
+/*----ABOUTME-----------------------------------------------------------------*/
+.aboutme{
+    padding-top: 30px;
+}
+.aboutme h1{
+    text-align: center;
+    padding-top: 25px;
+}
+.aboutme h2{
+    text-align: center;
+}
+.aboutme h3{
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.aboutme p{
+    text-align: justify;
+    line-height: 1.6;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column-aboutme {
+    float: left;
+    width: 50%;
+}
+.row-aboutme:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.hobbies{
+    text-align: center;
+    padding-top: 5px;
+}
+.hobbies img{
+    border-radius: 8px;
+}
+.padding-top-25px{
+    padding-top: 25px;
+}
+.padding-top-30px{
+    padding-top: 30px;
+}
+.padding-left-75px{
+    padding-left: 75px;
+}
+.padding-top-5px{
+    padding-top: 13px;
+}
+.aboutme h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+/*----MYPROJECTS-----------------------------------------------------------------*/
+.myprojects{
+    padding-top: 30px;
+}
+.myprojects h1{
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+.coluna {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.linha:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding-bottom: 10px;
+}
+.img-transform{
+    border-radius: 8px;
+    box-shadow: rgba(74, 58, 58, 0.35) 0px 5px 15px;
+    border: 5px solid black;
+}
+.img-transform:hover{
+    width: 440px;
+    height: 220px;
+    transition-duration: 0.3s;
+}
+/*----FOOTER-----------------------------------------------------------------*/
+.contato{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: rgba(74, 58, 58, 0.35) 0px 5px 15px;
+    background-color: #432818;
+}
+.contato p{
+    font-weight: bold;
+}
