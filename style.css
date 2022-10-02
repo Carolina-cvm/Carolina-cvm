@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
 * {
     box-sizing: border-box;
-    background-color: #99582a;
-    color: black;
+    color: white;
     scroll-behavior: smooth;
 }
 p{
@@ -12,19 +11,23 @@ p{
 h2{
     font-family: 'Poppins', sans-serif;
 }
+body{
+    background-color: rgb(29, 28, 28);
+}
 /*----NAVBAR-----------------------------------------------------------------*/
+
 ul {
     list-style-type: none;
     margin: 0;
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #432818;
+    background-color: black;
 }
 li {
     float: left;
     width: 300px;
-    background-color: #432818;
+    background-color: black;
 }
 li a {
     display: block;
@@ -36,8 +39,7 @@ li a {
     transition-duration: 0.3s;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    background-color: #432818;
-    color: #ffe6a7;
+    background-color: black;
 }
 a{
     scroll-behavior: smooth;
@@ -57,14 +59,13 @@ li a:hover:not(.active) {
 .header img{
     border-radius: 50%;
     text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
 .header h1{
     padding-left: 50px;
     font-size: 70px;
     text-align: center;
     font-family: 'Nunito', sans-serif;
-    color: #ffe6a7;
     text-shadow: 3px 3px 3px black;
 }
 /*----ABOUTME-----------------------------------------------------------------*/
@@ -157,7 +158,7 @@ li a:hover:not(.active) {
 }
 .img-transform{
     border-radius: 8px;
-    box-shadow: rgba(74, 58, 58, 0.35) 0px 5px 15px;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
     border: 5px solid black;
 }
 .img-transform:hover{
@@ -166,13 +167,10 @@ li a:hover:not(.active) {
     transition-duration: 0.3s;
 }
 /*----FOOTER-----------------------------------------------------------------*/
-.contato{
+.footer{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    box-shadow: rgba(74, 58, 58, 0.35) 0px 5px 15px;
-    background-color: #432818;
-}
-.contato p{
-    font-weight: bold;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+    background-color: black;
 }
