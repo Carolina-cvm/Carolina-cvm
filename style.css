@@ -15,7 +15,6 @@ body{
     background-color: #0B0E17;
 }
 /*----NAVBAR-----------------------------------------------------------------*/
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -46,7 +45,7 @@ a{
     scroll-behavior: smooth;
 }
 li a:hover:not(.active) {
-    background-color: blue;
+    background-color: #0B0E17;
 }
 /*----HEADER-----------------------------------------------------------------*/
 .header{
@@ -174,6 +173,10 @@ li a:hover:not(.active) {
     height: 220px;
     transition-duration: 0.3s;
 }
+.projectgif{
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+}
+
 /*----FOOTER-----------------------------------------------------------------*/
 .footer{
     text-align: center;
@@ -191,4 +194,7 @@ li a:hover:not(.active) {
     font-weight: bold;
     font-size: 20px;
 }
-
+/*----CODETEXT-----------------------------------------------------------------*/
+.codetext{
+    text-align: center;
+}
