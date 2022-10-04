@@ -46,6 +46,7 @@ a{
 }
 li a:hover:not(.active) {
     background-color: #0B0E17;
+    box-shadow: 0px 10px 13px -7px #000000, 0px 0px 19px 3px rgba(0,0,0,0);
 }
 /*----HEADER-----------------------------------------------------------------*/
 .header{
@@ -140,6 +141,7 @@ li a:hover:not(.active) {
 /*----MYPROJECTS-----------------------------------------------------------------*/
 .myprojects{
     padding-top: 30px;
+    padding-bottom: 50px;
 }
 .myprojects h1{
     padding-top: 15px;
@@ -173,8 +175,14 @@ li a:hover:not(.active) {
     height: 220px;
     transition-duration: 0.3s;
 }
-.projectgif{
-    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+.projectgif img{
+    box-shadow: 0px 0px 19px 3px #000000;
+    border: 3px solid black;
+    border-radius: 8px;
+}
+
+.codetext{
+    padding-bottom: 20px;
 }
 
 /*----FOOTER-----------------------------------------------------------------*/
