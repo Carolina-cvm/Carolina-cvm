@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carolina</h1>
+<h1 align="center">Hi 👋, I'm Carolina!</h1>
 <h3 align="center">Studying front-end and programming.</h3>
 
 📫 **carolina.martins3@pucpr.edu.br**
