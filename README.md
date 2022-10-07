@@ -1,7 +1,14 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello world, meu nome é Carolina! </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello world, meu nome é Carolina!💁‍♀️ </h1>
 
+**🗓️ 20 anos**
+
+**📍 Curitiba-PR**
+
+**🎓 Engenharia de Software - PUCPR**
+
+**📫 carolina.martins3@pucpr.edu.br**
 <!--
-📫 **carolina.martins3@pucpr.edu.br**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&langs_count=3&hide=typescript&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
