@@ -207,4 +207,11 @@ li a:hover:not(.active) {
     font-weight: bold;
     font-size: 20px;
 }
+.footer a {
+    color: #FB038B;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+    
 
