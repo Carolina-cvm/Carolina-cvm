@@ -213,5 +213,8 @@ li a:hover:not(.active) {
     font-weight: bold;
     font-size: 20px;
 }
+.footer a:hover{
+    text-decoration: underline;
+}
     
 
