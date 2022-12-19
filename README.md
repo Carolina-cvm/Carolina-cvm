@@ -16,14 +16,15 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55239200/194588624-41335d8a-8004-4b5b-8f83-a957685229c6.gif"/>
-</p>
 <hr>
 
 <!--
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55239200/194588624-41335d8a-8004-4b5b-8f83-a957685229c6.gif"/>
+</p>
 
 
 -->
