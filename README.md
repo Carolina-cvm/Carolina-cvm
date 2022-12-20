@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&langs_count=3&hide=typescript&layout=compact&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
