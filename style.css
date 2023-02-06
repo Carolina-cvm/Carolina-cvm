@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
 
-@media only screen and (max-device-width: 900px) {
+/* @media only screen and (max-device-width: 900px) {
     .menu { width:600px; }
 }
-
+*/
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
