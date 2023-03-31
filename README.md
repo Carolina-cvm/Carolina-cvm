@@ -5,8 +5,11 @@
 </div>
 
 <div align="center">
- https://carolina-cvm.github.io/Carolina-cvm/
+ 
+ ![this icon](https://user-images.githubusercontent.com/55239200/229198300-f0b96c60-1745-4a38-a882-0ea1234b64a6.png)   https://carolina-cvm.github.io/Carolina-cvm/
 </div>
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -18,7 +21,7 @@
 </p>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolina-cvm&theme=dark" alt="carolina-cvm" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=flat" alt="carolina-cvm" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=grey" alt="carolina-cvm" /></p>
 <br>
 <hr>
 
