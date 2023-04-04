@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- 📝 https://carolina-cvm.github.io/Carolina-cvm/
+ 📝 https://bit.ly/Carolina-cvm
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
