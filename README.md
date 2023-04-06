@@ -15,14 +15,16 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
 </p>
-</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolina-cvm&theme=dark" alt="carolina-cvm" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=grey" alt="carolina-cvm" /></p>
-<br>
+<p align="center"> 
+ <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
 
 <!--
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=carolina-cvm&title=Stars,Followers,Commits,Repositories&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
