@@ -15,7 +15,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolina-cvm&theme=dark" alt="carolina-cvm" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=dark&mode=weekly&type=png" alt="carolina-cvm" /></p>
 <h3 align="center">🏆 Profile Trophy</h3>
 <p align="center"> 
  <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
@@ -24,17 +24,4 @@
 <hr>
 
 <!--
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=carolina-cvm&title=Stars,Followers,Commits,Repositories&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact)](https://github.com/carolina-cvm/github-readme-stats)
-
 -->
