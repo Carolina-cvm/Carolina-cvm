@@ -35,6 +35,10 @@
 <hr>
 
 <!--
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
+ <img height="180em" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=dark&mode=weekly&type=png" alt="carolina-cvm"/>
+</div>
 
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
