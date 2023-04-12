@@ -3,8 +3,10 @@
 <b>🗓️ 21 anos</b>  |  <b>📍 Curitiba - PR</b>  |  <b>🎓 Bacharelado em Engenharia de Software - PUCPR</b>  |  <b>📫 carolina.martins3@pucpr.edu.br</b>
  <br>
 </div>
+<br>
 <div align="center">
- <h4> 📝 https://bit.ly/Carolina-cvm </h4>
+ <a href="https://carolina-cvm.github.io/Carolina-cvm/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/carolina-cvm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
  
 <h3 align="center">🚀 Top Skills</h3>
@@ -15,12 +17,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/></a>
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=dark&mode=weekly&type=png" alt="carolina-cvm" /></p>
 <h3 align="center">🏆 Trophies</h3>
 <p align="center"> 
  <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
 </p>
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
  
 <div align="center">
  <h3 align="center">💳 Summary Card</h3>
@@ -39,6 +41,8 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical"/>
  <img height="180em" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=dark&mode=weekly&type=png" alt="carolina-cvm"/>
 </div>
+
+ <h4> 📝 https://bit.ly/Carolina-cvm </h4>
 
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
