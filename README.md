@@ -5,6 +5,7 @@
 </div>
 <br>
 <div align="center">
+ <a href="https://linktr.ee/carolina.cvm" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
  <a href="https://carolina-cvm.github.io/Carolina-cvm/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/carolina-cvm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
@@ -35,6 +36,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
+
 
 <!--
 <div align="center">
