@@ -29,9 +29,6 @@
  <h3 align="center">💳 Summary Card</h3>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carolina-cvm&theme=2077">
 </div>
-<div align="center">
- <img src="https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg">
-</div>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
