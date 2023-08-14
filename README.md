@@ -10,6 +10,7 @@
  <a href="https://carolina-cvm.github.io/Carolina-cvm/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></a>
  <a href="https://www.w3profile.com/carolina-cvm" target="_blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
  <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+ <a href="https://dev-carolinamartins.pantheonsite.io/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
 </div>
 <h3 align="center">🚀 Top Skills</h3>
 <p align="center">
@@ -19,6 +20,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a><img src="Imagens/Power-BI.png" height="42"/></a>
+<a><img src="Imagens/worpressimage.png" height="42"/></a>
 <h3 align="center">🏆 Trophies</h3>
 <p align="center"> 
  <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
