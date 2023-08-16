@@ -30,7 +30,7 @@ ul {
 }
 li {
     float: left;
-    width: 300px;
+    width: 250px;
     background-color: black;
 }
 li a {
@@ -56,9 +56,7 @@ li a:hover:not(.active) {
 /*----HEADER-----------------------------------------------------------------*/
 .header{
     padding-top: 50px;
-    /*background-image: url('./Imagens/maybeback.png'); */
     padding-bottom: 10px;
-    /*box-shadow: 0px 10px 13px -7px #000000, 0px 0px 19px 3px rgba(0,0,0,0); */
 }
 .header div{
     display: flex;
@@ -67,7 +65,7 @@ li a:hover:not(.active) {
 }
 .header img{
     border-radius: 50%;
-    text-align: center;
+    text-align: left;
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
 }
 .header h1{
@@ -135,14 +133,14 @@ li a:hover:not(.active) {
 .padding-top-30px{
     padding-top: 30px;
 }
-.padding-left-75px{
-    padding-left: 75px;
+.padding-left-55px{
+    padding-left: 55px;
 }
 .padding-top-13px{
     padding-top: 13px;
 }
-.padding-top-55px{
-    padding-top: 55px;
+.padding-top-5px{
+    padding-top: 5px;
 }
 .aboutme h1{
     font-family: 'Poppins', sans-serif;
@@ -164,6 +162,10 @@ li a:hover:not(.active) {
     color: #00FFFF;
     text-shadow: 2px 2px 5px black;
 }
+.myprojects p{
+    text-align: justify;
+    padding: 25px 30px 15px 30px;
+}
 .coluna {
     float: left;
     width: 50%;
@@ -176,19 +178,27 @@ li a:hover:not(.active) {
     clear: both;
     padding-bottom: 10px;
 }
-.img-transform{
+.myprojects img{
     border-radius: 8px;
-    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
-    border: 5px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
-.img-transform:hover{
-    opacity: 50%;
-}
-.projectgif img{
-    box-shadow: 0px 0px 19px 3px #000000;
-    border: 3px solid black;
-    border-radius: 8px;
+.myprojects button {
+    font-family: 'Poppins', sans-serif;
+    color:#FB038B;
     background-color: #000000;
+    margin-top: 35px;
+    font-size: 18px;
+    width: 300px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.myprojects button:hover{
+    background-color: white;
 }
 /*----CODETEXT-----------------------------------------------------------------*/
 .codetext{
