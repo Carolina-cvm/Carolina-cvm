@@ -150,7 +150,7 @@ li a:hover:not(.active) {
 /*----MYPROJECTS-----------------------------------------------------------------*/
 .myprojects{
     padding-top: 30px;
-    padding-bottom: 70px;
+    padding-bottom: 30px;
 }
 .myprojects h1{
     padding-top: 15px;
@@ -221,16 +221,15 @@ li a:hover:not(.active) {
     color: #FB038B;
     text-decoration: none;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 17px;
 }
 .footer a {
     color: #FB038B;
     text-decoration: none;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 17px;
 }
 .footer a:hover{
     text-decoration: underline;
 }
     
-
