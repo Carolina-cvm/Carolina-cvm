@@ -206,6 +206,22 @@ li a:hover:not(.active) {
     text-align: center;
     padding-bottom: 20px;
 }
+
+.topo a{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+.topo a:hover:not(.active) {
+    background-color: #111;
+}
 /*----FOOTER-----------------------------------------------------------------*/
 .footer{
     text-align: center;
