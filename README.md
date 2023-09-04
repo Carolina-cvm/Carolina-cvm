@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello world, meu nome é Carolina!💁‍♀️ </h1>
 <div align="center">
-<b>🗓️ 21 anos</b>  |  <b>📍 Curitiba - PR</b>  |  <b>🎓 Bacharelado em Engenharia de Software - PUCPR</b>  |  <b>📫 carolina.martins3@pucpr.edu.br</b>
+<b>🗓️ 21 anos</b>  |  <b>📍 Curitiba - PR</b>  |  <b>🎓 Engenharia de Software - PUCPR</b>  |  <b>📫 carolina.martins3@pucpr.edu.br</b>
  <br>
 </div>
 <br>
@@ -34,16 +34,13 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
-<!--
 
+<!--
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical">
 </p>
-
 <div align="center">
  <img src="https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg">
 </div>
-
 ![Snake animation](https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg)
-
 -->
