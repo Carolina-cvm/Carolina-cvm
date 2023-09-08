@@ -224,6 +224,43 @@ li a:hover:not(.active) {
 }
 /*----FOOTER-----------------------------------------------------------------*/
 .footer{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    box-shadow: rgb(27, 28, 27) 0px 5px 15px;
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.footer p{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.footer h2{
+    color: white;
+    font-weight: 100;
+    text-decoration: none;
+    font-size: 20px;
+}
+.footer h4{
+    color: white;
+    font-weight: 200;
+    text-decoration: none;
+    font-size: 17px;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.social{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+/*
+.footer{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -248,4 +285,4 @@ li a:hover:not(.active) {
 .footer a:hover{
     text-decoration: underline;
 }
-    
+*/
