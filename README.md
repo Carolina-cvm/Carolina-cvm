@@ -17,6 +17,10 @@
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="Imagens/Power-BI.png" height="42"/></a>
 <a href="https://dev-carolinamartins.pantheonsite.io/" target="_blank"><img src="Imagens/worpressimage.png" height="42"/></a>
 <div align="center">
+ <h3 align="center">🏆 Trophies</h3>
+<p align="center"> 
+ <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
+</p>
  <h3 align="center">💳 Summary Card</h3>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carolina-cvm&theme=2077">
 </div>
@@ -35,13 +39,9 @@
 
 <a href="https://linktr.ee/carolina.cvm" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.w3profile.com/carolina-cvm" target="_blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
- 
-<h3 align="center">🏆 Trophies</h3>
-<p align="center"> 
- <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
-</p>
 
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p> 
+ <h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
+ 
 
 -->
