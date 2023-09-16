@@ -19,6 +19,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="Imagens/Power-BI.png" height="42"/></a>
 <a href="https://dev-carolinamartins.pantheonsite.io/" target="_blank"><img src="Imagens/worpressimage.png" height="42"/></a>
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
 <div align="center">
  <h3 align="center">🏆 Trophies</h3>
 <p align="center"> 
@@ -43,8 +45,7 @@
 <a href="https://linktr.ee/carolina.cvm" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.w3profile.com/carolina-cvm" target="_blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
 
- <h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
+ 
  
 
 -->
