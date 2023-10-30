@@ -20,8 +20,6 @@
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="Imagens/Power-BI.png" height="42"/></a>
 <a href="https://dev-carolinamartins.pantheonsite.io/" target="_blank"><img src="Imagens/worpressimage.png" height="42"/></a>
 <a><img src="Imagens/msproject.png" height="45"/></a>
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
 <div align="center">
  <h3 align="center">🏆 Trophies</h3>
 <p align="center"> 
@@ -34,19 +32,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
 
+
+
 <!--
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-cvm&layout=compact&theme=radical">
-</p>
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
+
 <div align="center">
  <img src="https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg">
 </div>
 ![Snake animation](https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg)
 
+
 <a href="https://linktr.ee/carolina.cvm" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.w3profile.com/carolina-cvm" target="_blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"></a>
-
- 
- 
 
 -->
