@@ -20,8 +20,6 @@
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="Imagens/Power-BI.png" height="42"/></a>
 <a href="https://dev-carolinamartins.pantheonsite.io/" target="_blank"><img src="Imagens/worpressimage.png" height="42"/></a>
 <a><img src="Imagens/msproject.png" height="45"/></a>
- <h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
 <div align="center">
  <h3 align="center">🏆 Trophies</h3>
 <p align="center"> 
@@ -37,6 +35,9 @@
 
 
 <!--
+
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
 
 <div align="center">
  <img src="https://github.com/Carolina-cvm/Carolina-cvm/blob/output/github-contribution-grid-snake.svg">
