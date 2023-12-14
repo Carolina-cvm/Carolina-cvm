@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello world, meu nome é Carolina!💁‍♀️ </h1>
 <div align="center">
-<b>🗓️ 21 anos</b>  |  <b>📍 Curitiba - PR</b>  |  <b>🎓 Engenharia de Software </b>  |  <b>📫 carolina.martins3@pucpr.edu.br</b>
+<b>🗓️ 21 anos</b>  |  <b>📍 Curitiba - PR</b>  |  <b>🎓 Engenharia de Software </b>  |  <b>📫 carolina.martins3@pucpr.edu.br </b>
  <br>
 </div>
 <br>
