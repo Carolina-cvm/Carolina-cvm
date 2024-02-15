@@ -24,6 +24,8 @@
 <p align="center"> 
  <img src="https://github-profile-trophy.vercel.app/?username=carolina-cvm&theme=radical&column=-1&title=Stars,Followers,Commits,Repositories"/> 
 </p>
+ <h3 align="center">🔥 Streak Stats</h3>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
  <h3 align="center">💳 Summary Card</h3>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carolina-cvm&theme=2077">
 </div>
@@ -31,12 +33,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carolina-cvm&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="carolina-cvm"/ </p>
 <hr>
 
-
-
 <!--
 
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=carolina-cvm&theme=radical&mode=weekly&type=png" alt="carolina-cvm" /></p>
+
 
 <a href="https://sites.google.com/view/carolina-martins/p%C3%A1gina-inicial" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 
